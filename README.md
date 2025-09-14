@@ -43,8 +43,8 @@
 ---
 
 ## 📊 Stats & Progress
-<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=111111&icon_color=6bb6ff&title_color=6bb6ff&text_color=c0c0c0" />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=111111&title_color=6bb6ff&text_color=c0c0c0" />
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shono15&show_icons=true&hide_border=true&theme=dark&bg_color=111111&icon_color=6bb6ff&title_color=6bb6ff&text_color=c0c0c0" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shono15&layout=compact&hide_border=true&theme=dark&bg_color=111111&title_color=6bb6ff&text_color=c0c0c0" />
 
 <br clear="left"/>
 
