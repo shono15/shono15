@@ -58,8 +58,13 @@
 
 ## 🎧 Favorite Songs  
 
-[![Let It Happen – Tame Impala](https://img.shields.io/badge/Spotify-Let%20It%20Happen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)  
-[![Let Down – Radiohead](https://img.shields.io/badge/Spotify-Let%20Down-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC)
+## 🎧 Favorite Songs  
+
+**Let It Happen – Tame Impala**  
+[![Let It Happen](https://i.scdn.co/image/ab67616d0000b27397a7481e40e01f88e8a9f6c7)](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
+
+**Let Down – Radiohead**  
+[![Let Down](https://i.scdn.co/image/ab67616d0000b2735b6a229fd5a465a13e2b0b52)](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC)
 
 ---
 
