@@ -55,6 +55,12 @@
 - Theme song while coding: 🎧 *solitary piano + snowstorm SFX*  
 - Motto: _"One more move upward."_  
 
+
+## 🎧 Favorite Songs  
+
+[![Let It Happen – Tame Impala](https://img.shields.io/badge/Spotify-Let%20It%20Happen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)  
+[![Let Down – Radiohead](https://img.shields.io/badge/Spotify-Let%20Down-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC)
+
 ---
 
 ## 🏔️ Closing Thought
