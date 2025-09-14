@@ -1,72 +1,67 @@
 <!--
-  GitHub Profile README — "The Climber" inspired
-  Dark minimalist, solitude + mountain aesthetics
+  GitHub Profile README — Manga Black & White Edition
+  Minimalist, manga-inspired, clean and professional
 -->
 
-# 🏔️ Giorgi "Shono" Shonia  
-
-> “Every commit is another handhold on the wall.”  
-> A web developer climbing toward clean design, sharp code, and higher peaks.
+# 🏔️ Giorgi "Shono" Shonia
 
 ---
 
-## 🧗 About me
-- 🧑‍💻 Frontend-focused web developer.  
-- 🏔️ Inspired by *Kokou no Hito (The Climber)* — discipline, struggle, solitude.  
-- ⚡ I chase elegant, minimal UIs like mountain ridges: sharp, functional, dangerous if overbuilt.  
-- 🌲 I prefer quiet focus: build → test → refine → ascend.  
+## 🧗 About Me
+
+- Frontend web developer
+- Enjoy building clean, minimal user interfaces
+- Inspired by manga and Japanese design
+- Focused on writing maintainable, efficient code
 
 ---
 
 ## 🛠️ Tools & Stack
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JS](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+```
+[HTML] [CSS] [JavaScript] [React] [Tailwind] [Vite]
+```
 
 ---
 
 ## 🧾 Featured Projects
-> Small steps up the wall — every repo a new ledge.  
 
-### 🪢 [Solo — Gamified Life Tracker](https://github.com/USERNAME/solo)  
-*"Discipline is survival. Miss a day, slip off the wall."*
+```
+🪢 Solo — Gamified Life Tracker
+https://github.com/USERNAME/solo
 
-### 🏔️ [Summit — Task Mountain](https://github.com/USERNAME/summit)  
-*"Visualize every task as a climb. No shortcuts."*
+🏔️ Summit — Task Mountain
+https://github.com/USERNAME/summit
 
-### 📚 [GeoManga — Georgian Manga Reader](https://github.com/USERNAME/geomanga)  
-*"Reading flow, panel by panel, steady like breathing at altitude."*
+📚 GeoManga — Georgian Manga Reader
+https://github.com/USERNAME/geomanga
+```
 
 ---
 
 ## 📊 Stats & Progress
-<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shono15&show_icons=true&hide_border=true&theme=dark&bg_color=111111&icon_color=6bb6ff&title_color=6bb6ff&text_color=c0c0c0" />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shono15&layout=compact&hide_border=true&theme=dark&bg_color=111111&title_color=6bb6ff&text_color=c0c0c0" />
+
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shono15&show_icons=true&hide_border=true&theme=dark&bg_color=111111&icon_color=ffffff&title_color=ffffff&text_color=cccccc" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shono15&layout=compact&hide_border=true&theme=dark&bg_color=111111&title_color=ffffff&text_color=cccccc" />
 
 <br clear="left"/>
 
 ---
 
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://novatorem-shono15.vercel.app/api/spotify)](https://open.spotify.com/user/5b4670071131405b)
+
+---
+
 ## 🎭 Personal
-- Favorite manga: **The Climber (孤高の人)**  
-- Theme song while coding: 🎧 *solitary piano + snowstorm SFX*  
-- Motto: _"One more move upward."_  
 
-
-## 🎧 Favorite Songs  
-
-## 🎧 Favorite Songs  
-
-**Let It Happen – Tame Impala**  
-[![Let It Happen](https://i.scdn.co/image/ab67616d0000b27397a7481e40e01f88e8a9f6c7)](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
-
-**Let Down – Radiohead**  
-[![Let Down](https://i.scdn.co/image/ab67616d0000b2735b6a229fd5a465a13e2b0b52)](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC)
+- Favorite manga: The Climber (孤高の人)
+- Music for focus: piano, ambient, or lo-fi
+- Motto: "One more move upward."
 
 ---
 
 ## 🏔️ Closing Thought
-> “Coding is climbing. The higher you go, the colder and lonelier it gets — but the view is worth it.”
+
+> "Always improving, one step at a time."
